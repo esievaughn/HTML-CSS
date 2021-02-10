@@ -12,7 +12,7 @@ Bootstrap4 Project: example of a homepage for a movie theater company utilizing 
 Final Challenge: a series of challenges presented by my bootcamp to construct a website with HTML and CSS. Utilizing a combination to develop a navbar, columns, table, hover       effects, overlay effects, and embedded video.
   
 
-Vermi|Compost: a one page website utilizing HTML and CSS. Components include navbar, photo gallery, embedded video, contact form, stylized css animation. 
+Spacestation: a one page website utilizing HTML and CSS. Components include navbar, photo gallery, embedded video, contact form, stylized css animation. 
 
 
 ASSIGNMENTS AND DRILLS
