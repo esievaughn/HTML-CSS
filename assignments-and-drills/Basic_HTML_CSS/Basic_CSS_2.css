@@ -1,0 +1,36 @@
+<<<<<<< Updated upstream
+p	 {
+		background-color: white;
+		color: rgb(204, 102, 0);
+		text-align: center;
+		font-weight: bold;
+		font-size: small;
+	}
+	
+h3	{
+	background-color: white;
+		color: DarkOliveGreen;
+		text-align: center;
+		font-weight: bold;
+		font-size: medium;
+		font-family: arial;
+		text-shadow:5px 5px 5px DarkSlateGrey;
+=======
+p	 {
+		background-color: white;
+		color: rgb(204, 102, 0);
+		text-align: center;
+		font-weight: bold;
+		font-size: small;
+	}
+	
+h3	{
+	background-color: white;
+		color: DarkOliveGreen;
+		text-align: center;
+		font-weight: bold;
+		font-size: medium;
+		font-family: arial;
+		text-shadow:5px 5px 5px DarkSlateGrey;
+>>>>>>> Stashed changes
+}

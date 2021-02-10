@@ -1,0 +1,27 @@
+<<<<<<< Updated upstream
+p	{
+	 color: rgb(51, 102, 204);
+	 text-align: left;
+	}
+
+h5 {
+	text-align: center;
+	}
+=======
+p	{
+	 color: rgb(51, 102, 204);
+	 text-align: left;
+	}
+
+h5 {
+	text-align: center;
+	}
+	
+img {
+     width: 500px;
+     height: 500px;
+     background-position: 50% 50%;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+>>>>>>> Stashed changes

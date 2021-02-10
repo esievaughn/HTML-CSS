@@ -1,0 +1,72 @@
+<<<<<<< Updated upstream
+
+table {
+	border: 2px solid silver;
+}
+	
+td:hover {
+	background-color:Gainsboro;
+	color: black;
+	font-weight: bold;
+}
+
+tr, th {
+	background-color: Khaki;
+	color: GoldenRod;
+	font-weight: bold;
+	font-size: medium;
+	font-family: Arial;
+}
+
+tr,td {
+	background-color:GoldenRod;
+	color: Khaki;
+	font-weight: bold;
+	font-size: small;
+	font-family: Arial;
+}
+
+h3	{
+	color: DarkGoldenRod;
+	font-family: georgia;
+	font-weight: bold;
+	font-size: large;
+	text-align: left;
+}
+=======
+
+table {
+	border: 2px solid silver;
+}
+	
+td:hover {
+	background-color:Gainsboro;
+	color: black;
+	font-weight: bold;
+}
+
+tr, th {
+	background-color: Khaki;
+	color: GoldenRod;
+	font-weight: bold;
+	font-size: medium;
+	font-family: Arial;
+}
+
+tr,td {
+	background-color:GoldenRod;
+	color: Khaki;
+	font-weight: bold;
+	font-size: small;
+	font-family: Arial;
+}
+
+h3	{
+	color: DarkGoldenRod;
+	font-family: georgia;
+	font-weight: bold;
+	font-size: large;
+	text-align: left;
+}
+>>>>>>> Stashed changes
+	
