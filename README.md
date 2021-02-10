@@ -1,7 +1,8 @@
 HTML-CSS
 
 MY PORTFOLIO
-  -My portfolio website demonstrating HTML, CSS, and animination within CSS. 
+
+My portfolio website demonstrating HTML, CSS, and animination within CSS. 
   
 PROJECTS
   Bootstrap4 Project: example of a homepage for a movie theater company utilizing Bootstrap components like navbar, jumbotron, badges, forms, and cards. 
