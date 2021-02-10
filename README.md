@@ -1,10 +1,10 @@
-#HTML-CSS
+# HTML-CSS
 
-##MY PORTFOLIO
+## MY PORTFOLIO
 
 My portfolio website demonstrating HTML, CSS, and animination within CSS. 
   
-##PROJECTS
+## PROJECTS
 
 Bootstrap4 Project: example of a homepage for a movie theater company utilizing Bootstrap components like navbar, jumbotron, badges, forms, and cards. 
   
@@ -15,6 +15,6 @@ Final Challenge: a series of challenges presented by my bootcamp to construct a 
 Spacestation: a one page website utilizing HTML and CSS. Components include navbar, photo gallery, embedded video, contact form, stylized css animation. 
 
 
-##ASSIGNMENTS AND DRILLS
+## ASSIGNMENTS AND DRILLS
 
 A series of basic HTML and CSS projects completed to better understand the modalities of both. 
