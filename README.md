@@ -1,8 +1,4 @@
 # HTML-CSS
-
-## MY PORTFOLIO
-
-My portfolio website demonstrating HTML, CSS, and animination within CSS. 
   
 ## PROJECTS
 
