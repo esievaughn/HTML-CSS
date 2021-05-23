@@ -1,6 +1,7 @@
 # HTML-CSS
-  
-## PROJECTS
+  ---
+## Main HTML/CSS Projects
+---
 
 ![Bootstrap4 Project](https://github.com/esievaughn/HTML-CSS/tree/main/projects/bootstrap4_project)
  example of a homepage for a movie theater company utilizing Bootstrap components like navbar, jumbotron, badges, forms, and cards. 
